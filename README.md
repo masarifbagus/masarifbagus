@@ -235,27 +235,6 @@ Provided technical consultation and implementation support on client-facing syst
 
 ---
 
-## ⟡ Certifications
-
-*Add your certification badges below as you earn them.*
-
-**AWS**
-
-`Add AWS certification badge`
-
-**Oracle**
-
-`Add Oracle certification badge`
-
-**NPTEL**
-
-`Add NPTEL certification badge`
-
-**Cisco**
-
-`Add Cisco certification badge`
-
----
 
 ## ⟡ GitHub Analytics
 
