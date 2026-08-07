@@ -257,21 +257,6 @@ Provided technical consultation and implementation support on client-facing syst
 
 ---
 
-## ⟡ Coding Profiles
-
-*Update the usernames below with your actual coding-profile handles.*
-
-<div align="center">
-
-<a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="https://www.geeksforgeeks.org/user/your-username"><img src="https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
-<a href="https://www.hackerrank.com/your-username"><img src="https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
-<a href="https://www.codechef.com/users/your-username"><img src="https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
-
-</div>
-
----
-
 ## ⟡ GitHub Analytics
 
 <div align="center">
