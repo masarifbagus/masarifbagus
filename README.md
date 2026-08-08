@@ -40,7 +40,7 @@ philosophy: "Ship measurable, verifiable engineering — not estimated wins."
 ```
 
 I'm a final-year Computer Science student engineering **fast, scalable, and interactive
-web applications** with working depth across the full stack — from pixel-level frontend
+web applications** with working depth across the full stack, from pixel-level frontend
 motion design down to database schema and API architecture. My recent work centers on
 **AI-integrated SaaS products**, **transactional retail/POS systems**, and **research-grade
 data modeling**, built with an engineering discipline borrowed from production teams:
